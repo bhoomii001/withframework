@@ -26,7 +26,7 @@ namespace withframework
           
             int sum = a + b;
             Console.Write("sum of two number "+ sum);
-
+            Console.Write("Hello class from github");
             Console.ReadLine();
         }
     }
